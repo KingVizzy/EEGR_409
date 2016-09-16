@@ -1,0 +1,14 @@
+﻿Build started 9/16/2016 3:49:22 PM.
+     1>Project "C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Lecture4.1\Lecture4.1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Lab1.C
+         Lab1.C
+     1>c:\users\vasal1\documents\github\eegr_409\lecture4.1\lecture4.1\lab1.c(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Debug\Lecture4.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Debug\Lecture4.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Debug\Lecture4.1.lib" /MACHINE:X86 Debug\Lab1.obj
+         Lecture4.1.vcxproj -> C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Debug\Lecture4.1.exe
+     1>Done Building Project "C:\Users\vasal1\Documents\GitHub\EEGR_409\Lecture4.1\Lecture4.1\Lecture4.1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62

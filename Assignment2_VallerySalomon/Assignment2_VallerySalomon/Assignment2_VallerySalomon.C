@@ -9,26 +9,28 @@
 int main() 
 {
 	//Declare variables
-	float Sal1;
+	double Sal1;
 
 	//Ask user for input 
 	printf("Enter Salinity: ");
-	scanf_s("%ld", &Sal1);
+	scanf_s("%lf", &Sal1);
 
 
 	//Control statement to classify Salinity 
-	if ((Sal1 > 0) || (Sal1 < 10))
+	if ((Sal1 > 0) && (Sal1 < 10))
 	{
 
 		printf("Salinity is between 0 and 10");
 
 	}
-	else if((Sal1 > 11) || (Sal1 < 20))
+
+	else if((Sal1 > 11) && (Sal1 < 20))
 	{
 
 		printf("Salinity is between 10 and 20");
 
 	}
+	/*
 	else if((Sal1 > 21) || (Sal1 < 24.7))
 	{
 
@@ -59,7 +61,7 @@ int main()
 		printf("Error! Invalid Salinity level");
 
 	};
-
+	*/
 	
 	getchar();
 	getchar();

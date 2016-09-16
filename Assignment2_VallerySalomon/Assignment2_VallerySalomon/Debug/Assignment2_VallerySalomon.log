@@ -1,4 +1,13 @@
-﻿  Assignment2_VallerySalomon.C
-c:\users\kurrentlogic\documents\visual studio 2015\projects\assignment2_vallerysalomon\assignment2_vallerysalomon\assignment2_vallerysalomon.c(16): warning C4477: 'scanf_s' : format string '%ld' requires an argument of type 'long *', but variadic argument 1 has type 'float *'
-  Assignment2_VallerySalomon.vcxproj -> c:\users\kurrentlogic\documents\visual studio 2015\Projects\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.exe
-  Assignment2_VallerySalomon.vcxproj -> c:\users\kurrentlogic\documents\visual studio 2015\Projects\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.pdb (Full PDB)
+﻿Build started 9/16/2016 5:06:07 PM.
+     1>Project "C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Assignment2_VallerySalomon\Assignment2_VallerySalomon.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Assignment2_VallerySalomon.C
+         Assignment2_VallerySalomon.C
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.lib" /MACHINE:X86 Debug\Assignment2_VallerySalomon.obj
+         Assignment2_VallerySalomon.vcxproj -> C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.exe
+     1>Done Building Project "C:\Users\vasal1\Documents\GitHub\EEGR_409\Assignment2_VallerySalomon\Assignment2_VallerySalomon\Assignment2_VallerySalomon.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63
