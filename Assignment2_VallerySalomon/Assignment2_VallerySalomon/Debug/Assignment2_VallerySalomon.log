@@ -1,0 +1,4 @@
+﻿  Assignment2_VallerySalomon.C
+c:\users\kurrentlogic\documents\visual studio 2015\projects\assignment2_vallerysalomon\assignment2_vallerysalomon\assignment2_vallerysalomon.c(16): warning C4477: 'scanf_s' : format string '%ld' requires an argument of type 'long *', but variadic argument 1 has type 'float *'
+  Assignment2_VallerySalomon.vcxproj -> c:\users\kurrentlogic\documents\visual studio 2015\Projects\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.exe
+  Assignment2_VallerySalomon.vcxproj -> c:\users\kurrentlogic\documents\visual studio 2015\Projects\Assignment2_VallerySalomon\Debug\Assignment2_VallerySalomon.pdb (Full PDB)
