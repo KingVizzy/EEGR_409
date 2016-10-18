@@ -1,0 +1,6 @@
+﻿  Assignment3_VallerySalomon.C
+c:\users\kurrentlogic\documents\github\eegr_409\assignment3_vallerysalomon\assignment3_vallerysalomon\assignment3_vallerysalomon.c(15): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+c:\users\kurrentlogic\documents\github\eegr_409\assignment3_vallerysalomon\assignment3_vallerysalomon\assignment3_vallerysalomon.c(18): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+c:\users\kurrentlogic\documents\github\eegr_409\assignment3_vallerysalomon\assignment3_vallerysalomon\assignment3_vallerysalomon.c(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assignment3_VallerySalomon.vcxproj -> C:\Users\KurrentLogic\Documents\GitHub\EEGR_409\Assignment3_VallerySalomon\Debug\Assignment3_VallerySalomon.exe
+  Assignment3_VallerySalomon.vcxproj -> C:\Users\KurrentLogic\Documents\GitHub\EEGR_409\Assignment3_VallerySalomon\Debug\Assignment3_VallerySalomon.pdb (Full PDB)
