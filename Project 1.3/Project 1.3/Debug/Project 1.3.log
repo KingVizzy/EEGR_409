@@ -1,0 +1,2 @@
+﻿  Display.c
+c:\users\kurrentlogic\documents\github\eegr_409\project 1.3\project 1.3\display.c(5): fatal error C1083: Cannot open include file: 'glut.h': No such file or directory
