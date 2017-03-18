@@ -1,0 +1,12 @@
+﻿  Assign3_VallerySalomon.c
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kurrentlogic\documents\github\eegr_409\assign3_vallerysalomon\assign3_vallerysalomon\assign3_vallerysalomon.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Assign3_VallerySalomon.vcxproj -> C:\Users\KurrentLogic\Documents\GitHub\EEGR_409\Assign3_VallerySalomon\Debug\Assign3_VallerySalomon.exe
+  Assign3_VallerySalomon.vcxproj -> C:\Users\KurrentLogic\Documents\GitHub\EEGR_409\Assign3_VallerySalomon\Debug\Assign3_VallerySalomon.pdb (Full PDB)

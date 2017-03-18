@@ -1,7 +1,7 @@
 //Vallery Salomon
 //Assignment 2
 //EEGR 409 C Programming Applications
-//September 14, 2016
+//January 24, 2016
 
 #include <stdio.h>
 #include <math.h>
@@ -30,20 +30,20 @@ int main()
 		printf("Salinity is between 10 and 20");
 
 	}
-	/*
-	else if((Sal1 > 21) || (Sal1 < 24.7))
+	
+	else if((Sal1 > 21) && (Sal1 < 24.7))
 	{
 
 		printf("Salinity is between 20 and 24.7");
 
 	}
-	else if((Sal1 > 24.8) || (Sal1 < 30))
+	else if((Sal1 > 24.8) && (Sal1 < 30))
 	{
 
 		printf("Salinity is between 24.7 and 30");
 
 	}
-	else if((Sal1 > 31) || (Sal1 < 35))
+	else if((Sal1 > 31) && (Sal1 < 35))
 	{
 		
 		printf("Salinity is between 30 and 35");
@@ -61,7 +61,7 @@ int main()
 		printf("Error! Invalid Salinity level");
 
 	};
-	*/
+	
 	
 	getchar();
 	getchar();
