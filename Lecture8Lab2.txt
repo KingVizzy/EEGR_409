@@ -1,0 +1,28 @@
+//Lecture 8 Lab 2
+
+#include <stdio.h>
+
+void main()
+{
+	int v, i;
+	int *p1;
+	int *p2;
+	p1 = &v;
+
+	printf("Enter an value for v: ");
+	scanf("%d", *p1);
+	
+	
+	
+	for(i = 0; i < 10; i++)	
+	{
+		i = i++;
+		*p2 = *p1 + i;
+	}
+		
+	printf("This is the value of v = %d", v);
+	
+
+
+
+}

@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+	int num[10];
+	int i = 0;
+	
+	printf("Enter 10 numbers: ");
+	scanf("%d", &num[i]);
+	
+	for(i = 0; i < 10; i++)
+	{
+		for(i = 9; i >= 0; i--)
+		{  
+		
+		printf("The reverse of the numbers you entered are: ");
+		printf("%d", num[i]);
+		}
+	}
+
+	getchar();
+	getchar();
+	
+
+}

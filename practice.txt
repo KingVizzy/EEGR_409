@@ -1,0 +1,4 @@
+write a program to display a table of factorials based 
+ask the user to enter the square dimensions
+display the table where each cell is the factorial of the product of the row and column
+make sure the row and column never goes above 3

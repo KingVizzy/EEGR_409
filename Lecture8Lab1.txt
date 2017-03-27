@@ -1,0 +1,47 @@
+//Lecture 8 Lab 1
+
+#include <stdio.h>
+#include <math.h>
+
+
+void sort()
+{
+	//Declare variables
+	static int a[10] = {5, 4, 9, 1, 8, 3, 7, 2, 6, 0};
+	int i, j, k, n_size = sizeof(a[10])/sizeof(a[10]);
+	
+	//Sort array
+	for(i = 0; i < 10; i++)
+	{
+		for(j = 0; j < 10; j++)
+		{
+			if(a[j] < a[i])
+			{
+				double temp = a[j];
+				a[j] = a[i];
+				a[i] = temp;	
+				
+				for(k = 0; k < n_size; k++)printf("%d", n_size);
+				return;
+			}
+		}          
+	
+
+}
+
+
+int main()
+{
+	int i;
+	printf("Array sorting\n");
+	for(i = 0; i < 10; i++)
+	{
+		sort();
+	}
+	
+	getchar();
+	getchar();
+
+
+
+}
